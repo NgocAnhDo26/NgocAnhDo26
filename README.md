@@ -18,8 +18,8 @@ I'm an aspiring Backend Developer with a strong foundation in software engineeri
 
 * **Languages:** C#, Java, C/C++, JavaScript, TypeScript, Python
 * **Backend:** ASP.NET Core API, Node.js, Entity Framework Core, JWT, RESTful API
-* **Frontend:** React.js, JavaFX, EJS 
-* **Databases:** PostgreSQL, MySQL, Redis, Prisma ORM
+* **Frontend:** React.js, EJS, WinUI3, JavaFX,  
+* **Databases:** PostgreSQL, SQL Server, MySQL, Redis, Prisma ORM
 * **Tools & Platforms:** Git, GitHub, Figma, JIRA, Tailwind CSS, MEF (Managed Extensibility Framework)
 
 <p align="left">
