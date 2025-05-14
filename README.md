@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Do Tan Ngoc Anh!
 
-I'm an aspiring Backend Developer with a strong foundation in software engineering principles and a passion for building robust and scalable server-side applications. I'm currently deepening my expertise in the **.NET ecosystem** and seeking a challenging Backend Developer position where I can leverage my skills in designing, developing, and maintaining APIs and database systems. [cite: 1, 2] I'm eager to contribute to complex projects and grow professionally in a dynamic team environment. [cite: 2]
+I'm an aspiring Backend Developer with a strong foundation in software engineering principles and a passion for building robust and scalable server-side applications. I'm currently deepening my expertise in the **.NET ecosystem** and seeking a challenging Backend Developer position where I can leverage my skills in designing, developing, and maintaining APIs and database systems. I'm eager to contribute to complex projects and grow professionally in a dynamic team environment.
 
 ---
 
